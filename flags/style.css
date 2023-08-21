@@ -1,0 +1,29 @@
+.red {
+    background: #c71226;
+    height: 100px;
+}
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}
+
+.card {
+    background: lightskyblue;
+    color: #222222;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 20px;
+   
+    border: 4px solid red;
+    border-radius: 8px;
+}
