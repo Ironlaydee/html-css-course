@@ -1,0 +1,22 @@
+body {
+    background-image: url(images/aldebaran-s-uXchDIKs4qI-unsplash.jpg);
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.btn {
+    padding 8px 14px;
+    background: white;
+    border: 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.cta {
+    border-bottom: 4px solid white; 
+}
+
+h1 {
+    text-shadow: -5px 5px 4px black;
+}
